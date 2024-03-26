@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### Hi there 👋 I'm Kian, a CS major at New York University Abu Dhabi with an intended minor in urban informatics. I like the intersection of tech and entrep + e-commerce and building tech for sustainable smart cities and more! 
 <!--
 **kiandrew08/kiandrew08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
