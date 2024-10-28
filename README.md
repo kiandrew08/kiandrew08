@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Kian, a CS major at New York University Abu Dhabi with an intended minor in urban informatics. I am passionate about the intersection of technology, mathematics, and entrepreneurship. I am drawn to tech innovations from empowering traditional micro businesses, financial literacy, smart mobility and transportation, computer vision, and more! 
+### Hi there 👋 I'm Kian, a CS major at New York University with an intended minor in urban informatics. I am passionate about the intersection of technology, transportation, mathematics, and entrepreneurship. I am drawn to tech innovations from empowering traditional micro businesses, financial literacy, smart mobility, computer vision, and more! 
 🔭 Data Analysis and Visualization
 💬 Fundamentals of Machine Learning
 🤔 Tech Entrep
